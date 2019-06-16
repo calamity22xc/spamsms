@@ -1,18 +1,6 @@
-Skip to content
- KANG-NEWBIE / SpamSms
-Sign up
-Code  Issues 0  Pull requests 1  Projects 0  Security  Pulse
-Join GitHub today
-GitHub is home to over 36 million developers working together to host and review code, manage projects, and build software together.
-
-SpamSms/src/grab.py
-@KANG-NEWBIE KANG-NEWBIE Add files via upload
-01b6111 on 15 May
-52 lines (49 sloc)  1.5 KB
-  
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# Coded by KANG-NEWBIE
+# Coded by DECOMPILE•MARSHAL
 """
 ngapai bosq? mau recode?
 tinggal pake aja susah amat sih?!
